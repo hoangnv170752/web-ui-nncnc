@@ -1,0 +1,13 @@
+.home1{
+    display: flex;
+  margin-top: 10px;
+}
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}

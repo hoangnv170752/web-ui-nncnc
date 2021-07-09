@@ -1,0 +1,32 @@
+.input{
+    width: 100%;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #DADBE3;
+    font-size: 22px;
+    margin: 0;
+}
+.header {
+    color: #CF0000;
+    text-align: center;
+    background-color: #474C64;
+}
+.box {
+    align-items: center;
+}
+.button {
+    text-align: center;
+    border: none;
+    color: #fff;
+    padding: 16px 32px;
+    cursor: pointer;
+    background-color: #9AA5DF;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    border-radius: 10px;
+}
+.form {
+    background-color: #949AB9;
+}
